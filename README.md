@@ -6,3 +6,4 @@ Notes that I should know to be prepared to [LFCS Exam](https://training.linuxfou
 ## Topics
 
 * [Hardware resources](hardware.md)
+* [System initialization](system.md)
